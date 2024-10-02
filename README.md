@@ -1,7 +1,6 @@
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 <h1 align="center">Hii 👋, I'm Tanmay Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
-
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 
@@ -23,7 +22,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manfredsarixa&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manfredsarixa&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manfredsarixa&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manfredsarixa&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
