@@ -1,6 +1,8 @@
 <h1 align="center">Hii 👋, I'm Tanmay Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+(https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 
 # 💫 About Me:
 🔭 I’m currently diving into full-stack web development, Java backend, and cloud technologies.<br>👯 I’m open to collaborating on web dev projects and DevOps functionalities.<br>🤝 I’m seeking help with expanding my knowledge of full-stack development and cloud tech.<br>🌱 I’m learning Java, system design, automation, and cloud services to stay sharp in modern software development.<br>💬 Ask me about my full-stack journey, Java backend, or the latest in cloud and automation.<br>⚡ Fun fact: I enjoy cracking jokes and keeping things light!
