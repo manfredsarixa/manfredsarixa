@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/generalradahnX?theme=dark&font=&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/generalradahnX?theme=dark&font=Baloo%202&ext=heatmap)
