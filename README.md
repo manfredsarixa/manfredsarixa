@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Tanmay Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-(https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+!(https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 
 # 💫 About Me:
