@@ -12,6 +12,8 @@
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+![](https://komarev.com/ghpvc/?username=manfredsarixa&color=blue)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-pal-917881311/) 
 
