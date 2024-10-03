@@ -24,7 +24,6 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manfredsarixa&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
     <img src="https://leetcard.jacoblin.cool/generalradahnX?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats">
