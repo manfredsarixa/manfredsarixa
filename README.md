@@ -25,19 +25,16 @@
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- [![](https://visitcount.itsvg.in/api?id=manfredsarixa&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/generalradahnX?theme=dark&font=Baloo%202&ext=heatmap) -->
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
     <img src="https://leetcard.jacoblin.cool/generalradahnX?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats">
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </p>
 
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- [![](https://visitcount.itsvg.in/api?id=manfredsarixa&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
