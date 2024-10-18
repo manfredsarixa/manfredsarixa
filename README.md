@@ -38,9 +38,10 @@
 
 
 <p align="center">
+    <br>
     <img src="https://leetcard.jacoblin.cool/generalradahnX?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats">    
+    <br>
 </p>
-
 
 
 ### ✍️ Random Dev Quote
