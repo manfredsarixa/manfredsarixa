@@ -6,7 +6,6 @@
 # 💫 About Me:
 🔭 I’m currently diving into full-stack web development, Java backend, and cloud technologies.<br>👯 I’m open to collaborating on web dev projects and DevOps functionalities.<br>🤝 I’m seeking help with expanding my knowledge of full-stack development and cloud tech.<br>🌱 I’m learning Java, system design, automation, and cloud services to stay sharp in modern software development.<br>💬 Ask me about my full-stack journey, Java backend, or the latest in cloud and automation.<br>⚡ Fun fact: I enjoy cracking jokes and keeping things light!
 
-<br>
 
 # 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=manfredsarixa&theme=matrix)](https://github.com/manfredsarixa/github-profile-trophy&no-frame=true)
