@@ -36,7 +36,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manfredsarixa&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
-
+#
 <p align="center">
     <br>
     <img src="https://leetcard.jacoblin.cool/generalradahnX?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats">    
